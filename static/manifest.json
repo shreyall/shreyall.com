@@ -1,0 +1,10 @@
+{
+  "name": "Shreyal Shah",
+  "short_name": "Shreyal Shah",
+  "theme_color": "#101823",
+  "background_color": "#101823",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "./",
+  "splash_pages": null
+}
